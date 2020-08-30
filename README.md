@@ -5,6 +5,11 @@ A complete Chat App using technolgies given below
 ### `Live Site`
 [Hi Dude - Live App](https://hi-dude-ef18f.web.app/)
 
+...
+![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1598812871/react-whatsap_pezt2r.jpg)
+![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1598812872/react-whatsap2.jpg_b5kzev.jpg)
+...
+
 ## SETUP
 fork the repository
 git clone https://github.com/
